@@ -1,0 +1,19 @@
+body {
+
+    /* color: #f7f7f7; */
+  
+  }
+
+.jumbotron {
+  background-color:rgb(123, 19, 97);
+  background-size:contain;
+  height: 100%;}
+
+.jumbotron h1{
+      color:rgb(221, 175, 206);  
+  }
+
+.jumbotron p{
+  color: rgb(221, 175, 206);    
+}
+
