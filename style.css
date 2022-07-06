@@ -1,19 +1,37 @@
 body {
 
-    /* color: #f7f7f7; */
-  
+  font-family: 'Oswald', sans-serif;
+  color: rgb(93, 40, 145); 
+  background-color:rgb(0, 0, 0); 
   }
 
 .jumbotron {
-  background-color:rgb(123, 19, 97);
+  background-color:rgb(202, 189, 175); 
   background-size:contain;
   height: 100%;}
 
 .jumbotron h1{
-      color:rgb(221, 175, 206);  
+    color:rgb(93, 40, 145);   
   }
 
 .jumbotron p{
-  color: rgb(221, 175, 206);    
+  color: rgb(93, 40, 145);  
 }
+
+
+
+/* body {
+  font-family: 'Open Sans', sans-serif;
+  min-height: 75rem;
+  padding-top: 4.5rem;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Open Sans', sans-serif;
+}
+p {
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+} */
+
 
