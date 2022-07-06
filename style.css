@@ -18,6 +18,31 @@ body {
   color: rgb(93, 40, 145);  
 }
 
+.well {
+  background-color:rgb(202, 189, 175); 
+}
+
+.panel > .panel-heading {
+  background-color: rgb(202, 189, 175); 
+
+}
+
+.panel-heading {
+  background-color:rgb(202, 189, 175); 
+}
+
+.panel {
+  background-color:rgb(202, 189, 175); 
+
+}
+
+
+.panel-title {
+  background-color:rgb(202, 189, 175); 
+  color: rgb(93, 40, 145);  
+}
+
+
 
 
 /* body {
